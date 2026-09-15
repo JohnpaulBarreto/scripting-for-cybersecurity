@@ -1,0 +1,3 @@
+Hostname: codespaces-a5b26e
+Shell: /bin/bash
+Home directory: /home/codespace
